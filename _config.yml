@@ -1,0 +1,5 @@
+theme: jekyll-theme-slate
+title: napari
+description: multi-dimensional image viewer for python
+plugins:
+  - jekyll-redirect-from
